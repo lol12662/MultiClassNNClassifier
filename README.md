@@ -14,4 +14,4 @@ for Anaconda isntead use
   ```
 $conda install tensorflow
   ```
-
+**3.** All images are from Kaggle
