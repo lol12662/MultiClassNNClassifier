@@ -10,4 +10,8 @@ Note:This is under the assumption that Python is already installed
   ```
 $pip install tensorflow
   ```
+for Anaconda isntead use
+  ```
+$conda install tensorflow
+  ```
 
